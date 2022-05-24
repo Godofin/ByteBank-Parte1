@@ -1,0 +1,15 @@
+C:\Users\guilh\source\repos\ByteBank\Challenge01\bin\Debug\net6.0\Challenge01.exe
+C:\Users\guilh\source\repos\ByteBank\Challenge01\bin\Debug\net6.0\Challenge01.deps.json
+C:\Users\guilh\source\repos\ByteBank\Challenge01\bin\Debug\net6.0\Challenge01.runtimeconfig.json
+C:\Users\guilh\source\repos\ByteBank\Challenge01\bin\Debug\net6.0\Challenge01.dll
+C:\Users\guilh\source\repos\ByteBank\Challenge01\bin\Debug\net6.0\Challenge01.pdb
+C:\Users\guilh\source\repos\ByteBank\Challenge01\obj\Debug\net6.0\Challenge01.csproj.AssemblyReference.cache
+C:\Users\guilh\source\repos\ByteBank\Challenge01\obj\Debug\net6.0\Challenge01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\source\repos\ByteBank\Challenge01\obj\Debug\net6.0\Challenge01.AssemblyInfoInputs.cache
+C:\Users\guilh\source\repos\ByteBank\Challenge01\obj\Debug\net6.0\Challenge01.AssemblyInfo.cs
+C:\Users\guilh\source\repos\ByteBank\Challenge01\obj\Debug\net6.0\Challenge01.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\ByteBank\Challenge01\obj\Debug\net6.0\Challenge01.dll
+C:\Users\guilh\source\repos\ByteBank\Challenge01\obj\Debug\net6.0\refint\Challenge01.dll
+C:\Users\guilh\source\repos\ByteBank\Challenge01\obj\Debug\net6.0\Challenge01.pdb
+C:\Users\guilh\source\repos\ByteBank\Challenge01\obj\Debug\net6.0\Challenge01.genruntimeconfig.cache
+C:\Users\guilh\source\repos\ByteBank\Challenge01\obj\Debug\net6.0\ref\Challenge01.dll
