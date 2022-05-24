@@ -11,13 +11,12 @@ Para realizar a classe, é necessário definirmos se ela é pública ou privada,
 Assim, podemos passar os atributos para a classe, como no exemplo a seguir:
 
 ---
-´public class ContaCorrente
-{
+public class ContaCorrente {
      public string titular;
      public string conta;
      public int numero_agencia;
      public string nome_agencia;
      public double saldo;
      public bool vaerificador;
-}`
+}.
 ---
