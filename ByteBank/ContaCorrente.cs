@@ -7,5 +7,29 @@
         public int numero_agencia;
         public string nome_agencia;
         public double saldo;    
+
+        public bool Sacar(double valor)
+        {
+            if (saldo < valor)
+            {
+                Console.WriteLine("O valor não pode ser sacado, pois o saldo é menor que o valor do saque!");
+                return false;
+            }
+            else if (valor < 0)
+            {
+                Console.WriteLine("Não se pode realizar saques negativos!");
+                return false;
+            }
+            else
+            {
+                saldo -= valor;
+                return true;
+            }
+        }
+
+        public void Depositar(double valor)
+        {
+            saldo += valor;
+        }
     }
 }
