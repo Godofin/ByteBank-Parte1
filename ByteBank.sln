@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteBank", "ByteBank\ByteBank.csproj", "{19F1338E-6BA4-45E6-9A04-E4CA048936FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ByteBank", "ByteBank\ByteBank.csproj", "{19F1338E-6BA4-45E6-9A04-E4CA048936FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge01", "Challenge01\Challenge01.csproj", "{72D3B70A-5814-4617-A126-BADF455E862F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge01", "Challenge01\Challenge01.csproj", "{72D3B70A-5814-4617-A126-BADF455E862F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge02", "Challenge02\Challenge02.csproj", "{6325A11A-D66D-4164-90C0-3F8981E2C70F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{72D3B70A-5814-4617-A126-BADF455E862F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72D3B70A-5814-4617-A126-BADF455E862F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72D3B70A-5814-4617-A126-BADF455E862F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6325A11A-D66D-4164-90C0-3F8981E2C70F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6325A11A-D66D-4164-90C0-3F8981E2C70F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6325A11A-D66D-4164-90C0-3F8981E2C70F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6325A11A-D66D-4164-90C0-3F8981E2C70F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
