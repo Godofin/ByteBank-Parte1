@@ -1,6 +1,6 @@
 # Orientação a Objetos com C#
 
-Comando para instalar o .net 6.0: `dotnet-install.ps1 -Channel 6.0 -Runtime aspnetcore`
+Comando para instalar o .net 6.0: `dotnet-install.ps1 -Channel 6.0 -Runtime aspnetcore`.
 link: https://docs.microsoft.com/pt-br/dotnet/core/install/windows?tabs=net60
 
 
