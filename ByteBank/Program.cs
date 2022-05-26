@@ -1,4 +1,6 @@
-﻿using bytebank;
+﻿//Criando primeiras classes
+
+using bytebank;
 
 Console.WriteLine("Boas Vindas ao seu Banco, Bytebank");
 
