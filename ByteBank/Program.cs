@@ -18,12 +18,18 @@ conta2.nome_agencia = "Agência Central";
 conta2.saldo = 100;
 
 
-Console.WriteLine($"Saldo da Amanda pré-saque {conta2.saldo} ");
-bool saque = conta2.Sacar(50);
-Console.WriteLine($"Saque realizado? {saque}");
-Console.WriteLine($"Saldo da Amanda pós-saque {conta2.saldo} ");
-conta2.Depositar(60);
-Console.WriteLine($"O Saldo da Amanda pós-depósito é de: {conta2.saldo}");
+Console.WriteLine($"Saldo pré-transferência Amanda: {conta2.saldo}");
+Console.WriteLine($"Saldo pré-transferência André: {conta1.saldo}");
+
+bool transferencia = conta1.Tranferir(50, conta2);
+
+Console.WriteLine($"\nSaldo pós-transferência Amanda: {conta2.saldo}");
+Console.WriteLine($"Saldo pós-transferência André: {conta1.saldo}");
+
+Console.WriteLine($"Transferencia executa com sucesso? {transferencia}");
+
+
+
 
 
 Console.ReadKey();

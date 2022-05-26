@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ByteBank", "ByteBank\ByteBa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge01", "Challenge01\Challenge01.csproj", "{72D3B70A-5814-4617-A126-BADF455E862F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge02", "Challenge02\Challenge02.csproj", "{6325A11A-D66D-4164-90C0-3F8981E2C70F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge02", "Challenge02\Challenge02.csproj", "{6325A11A-D66D-4164-90C0-3F8981E2C70F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge03", "Challenge03\Challenge03.csproj", "{2332271D-EA72-4F89-8F5E-FDD8CF0E2AE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge03", "Challenge03\Challenge03.csproj", "{2332271D-EA72-4F89-8F5E-FDD8CF0E2AE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge04", "Challenge04\Challenge04.csproj", "{EE605E63-56B7-4228-ADD2-00A97ED04822}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{2332271D-EA72-4F89-8F5E-FDD8CF0E2AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2332271D-EA72-4F89-8F5E-FDD8CF0E2AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2332271D-EA72-4F89-8F5E-FDD8CF0E2AE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE605E63-56B7-4228-ADD2-00A97ED04822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE605E63-56B7-4228-ADD2-00A97ED04822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE605E63-56B7-4228-ADD2-00A97ED04822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE605E63-56B7-4228-ADD2-00A97ED04822}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

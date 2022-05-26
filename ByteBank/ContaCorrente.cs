@@ -6,7 +6,7 @@
         public string conta;
         public int numero_agencia;
         public string nome_agencia;
-        public double saldo;    
+        public double saldo;
 
         public bool Sacar(double valor)
         {
@@ -30,6 +30,25 @@
         public void Depositar(double valor)
         {
             saldo += valor;
+        }
+
+        public bool Tranferir(double valor, ContaCorrente destino)
+        {
+            if (saldo < valor)
+            {
+                return false;
+            }
+            else if (valor < 0)
+            {
+                return false;
+            }
+            else
+            {
+                saldo -= valor;
+                destino.saldo += valor;
+                return true;
+            }
+
         }
     }
 }
