@@ -1,0 +1,15 @@
+C:\Users\guilh\source\repos\ByteBank\ByteBank03\bin\Debug\net6.0\ByteBank3.exe
+C:\Users\guilh\source\repos\ByteBank\ByteBank03\bin\Debug\net6.0\ByteBank3.deps.json
+C:\Users\guilh\source\repos\ByteBank\ByteBank03\bin\Debug\net6.0\ByteBank3.runtimeconfig.json
+C:\Users\guilh\source\repos\ByteBank\ByteBank03\bin\Debug\net6.0\ByteBank3.dll
+C:\Users\guilh\source\repos\ByteBank\ByteBank03\bin\Debug\net6.0\ByteBank3.pdb
+C:\Users\guilh\source\repos\ByteBank\ByteBank03\obj\Debug\net6.0\ByteBank3.csproj.AssemblyReference.cache
+C:\Users\guilh\source\repos\ByteBank\ByteBank03\obj\Debug\net6.0\ByteBank3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\source\repos\ByteBank\ByteBank03\obj\Debug\net6.0\ByteBank3.AssemblyInfoInputs.cache
+C:\Users\guilh\source\repos\ByteBank\ByteBank03\obj\Debug\net6.0\ByteBank3.AssemblyInfo.cs
+C:\Users\guilh\source\repos\ByteBank\ByteBank03\obj\Debug\net6.0\ByteBank3.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\ByteBank\ByteBank03\obj\Debug\net6.0\ByteBank3.dll
+C:\Users\guilh\source\repos\ByteBank\ByteBank03\obj\Debug\net6.0\refint\ByteBank3.dll
+C:\Users\guilh\source\repos\ByteBank\ByteBank03\obj\Debug\net6.0\ByteBank3.pdb
+C:\Users\guilh\source\repos\ByteBank\ByteBank03\obj\Debug\net6.0\ByteBank3.genruntimeconfig.cache
+C:\Users\guilh\source\repos\ByteBank\ByteBank03\obj\Debug\net6.0\ref\ByteBank3.dll
